@@ -1,6 +1,10 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e99d09c2-c2b0-4da8-9aef-838c492a9bf9" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ee42e3e-0f5a-47ad-b299-f2cadd001c16" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab25a8d2-a06c-4c8b-89be-cf0d3caa7278" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-26 160034" src="https://github.com/user-attachments/assets/c756db1f-513c-4676-bebd-48b8a8ebcbfc" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-26 160047" src="https://github.com/user-attachments/assets/fa15c200-3a8f-44bc-b119-a5b02de9f89f" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-26 160057" src="https://github.com/user-attachments/assets/e7bc57d2-ea43-48fe-a93e-41bd8cd29073" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-26 160124" src="https://github.com/user-attachments/assets/3525fea9-50bd-484b-a9cf-35e56be7d917" />
+
+
+
 Project Title:
 Project Management System in C 
 Functional Requirements:
@@ -42,7 +46,7 @@ User enters Task ID
 User sets progress → 0 to 100
 
 5. Exit the Program
-Features of the Project
+Features of the Project:
 1. No String Usage
 
 Entire program works using integers only
