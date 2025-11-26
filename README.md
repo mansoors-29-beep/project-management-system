@@ -2,12 +2,13 @@
 <img width="1920" height="1080" alt="Screenshot 2025-11-26 160047" src="https://github.com/user-attachments/assets/fa15c200-3a8f-44bc-b119-a5b02de9f89f" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-26 160057" src="https://github.com/user-attachments/assets/e7bc57d2-ea43-48fe-a93e-41bd8cd29073" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-26 160124" src="https://github.com/user-attachments/assets/3525fea9-50bd-484b-a9cf-35e56be7d917" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-26 161745" src="https://github.com/user-attachments/assets/7a54d612-8702-4dda-9e34-3c322f3ee17c" />
 
 
 
-Project Title:
+*Project Title:
 Project Management System in C 
-Functional Requirements:
+ *Functional Requirements:
 1. Add Task
 
 Enter Task ID
@@ -46,7 +47,7 @@ User enters Task ID
 User sets progress → 0 to 100
 
 5. Exit the Program
-Features of the Project:
+*Features of the Project:
 1. No String Usage
 
 Entire program works using integers only
@@ -54,7 +55,7 @@ Entire program works using integers only
 Avoids char arrays, string.h, or text input
 2. Uses Structure for Storing Task Data
 
-Struct stores:
+*Struct stores:
 
 ID
 
